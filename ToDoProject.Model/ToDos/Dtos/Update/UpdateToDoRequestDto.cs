@@ -5,10 +5,9 @@ public record UpdateToDoRequestDto(
 
     string Title,
     string Description,
-
     Priority Priority,
-
     bool Completed,
-    int CategoryId
+    int CategoryId,
+    string UserId
 );
 

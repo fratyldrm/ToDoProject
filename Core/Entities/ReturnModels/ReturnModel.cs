@@ -42,6 +42,10 @@ public class ReturnModel<TData>
         };
     }
 
+    public static object Failure(string v)
+    {
+        throw new NotImplementedException();
+    }
 }
 
 public class ReturnModel

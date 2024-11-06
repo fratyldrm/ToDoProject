@@ -91,12 +91,11 @@ public class CategoryService(ICategoryRepository categoryRepository, IUnitOfWork
 
         return ReturnModel.Success(HttpStatusCode.NoContent);
     }
-<<<<<<< HEAD
+
 
     public Task UpdateAsync(int id, UpdateCategoryRequestDto request, string? userId)
     {
         throw new NotImplementedException();
     }
-=======
->>>>>>> 08dcd5530dbef0ae6c680364eebd803bf00a3088
+
 }

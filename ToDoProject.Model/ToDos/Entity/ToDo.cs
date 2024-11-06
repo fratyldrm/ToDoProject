@@ -16,11 +16,9 @@ public sealed class ToDo : BaseEntity<Guid>, IInspectionEntity
     public DateTime EndDate { get; set; }
     public DateTime CreatedDate { get; set; }
     public DateTime UpdatedDate { get; set; }
-<<<<<<< HEAD
+
     public Priority Priority { get; set; }
-=======
-    public Precedence Priority { get; set; }
->>>>>>> 08dcd5530dbef0ae6c680364eebd803bf00a3088
+
     public bool Completed { get; set; }
     public int CategoryId { get; set; }
     public Category Category { get; set; }
