@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoProject.Model", "ToDoProject.Model\ToDoProject.Model.csproj", "{BC0AB841-9E80-4A4A-AE6A-2BC6D4F6E12B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoProject.Model", "ToDoProject.Model\ToDoProject.Model.csproj", "{BC0AB841-9E80-4A4A-AE6A-2BC6D4F6E12B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoProject.Repository", "ToDoProject.Repository\ToDoProject.Repository.csproj", "{79BB74BA-DA36-4DEF-84B7-33046A776FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoProject.Repository", "ToDoProject.Repository\ToDoProject.Repository.csproj", "{79BB74BA-DA36-4DEF-84B7-33046A776FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoProject.Service", "ToDoProject.Service\ToDoProject.Service.csproj", "{4D646D5A-58BF-432D-9879-C42C89142425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoProject.Service", "ToDoProject.Service\ToDoProject.Service.csproj", "{4D646D5A-58BF-432D-9879-C42C89142425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoProjectt.WebApi", "ToDoProjectt.WebApi\ToDoProjectt.WebApi.csproj", "{9AD229B4-8EBE-4697-96DA-B2D819311437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoProjectt.WebApi", "ToDoProjectt.WebApi\ToDoProjectt.WebApi.csproj", "{9AD229B4-8EBE-4697-96DA-B2D819311437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4B97404C-6849-4518-8E08-ED75BFE9BFC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{4B97404C-6849-4518-8E08-ED75BFE9BFC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
