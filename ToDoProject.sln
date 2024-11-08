@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnıtTest", "UnıtTest", "{43801AD9-E999-41A4-B8F6-8DDC7423F8E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoUnıtTest.Service", "TodoUnıtTest.Service\TodoUnıtTest.Service.csproj", "{EA2B4DB9-46AD-44C3-B320-22DF1DAA2C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoUnıtTest.Service", "TodoUnıtTest.Service\TodoUnıtTest.Service.csproj", "{EA2B4DB9-46AD-44C3-B320-22DF1DAA2C00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CategoryUnitTest", "CategoryUnitTest", "{37CAF4E5-02E6-4791-AA9C-F87D1C5F5DE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EA2B4DB9-46AD-44C3-B320-22DF1DAA2C00} = {43801AD9-E999-41A4-B8F6-8DDC7423F8E9}
+		{37CAF4E5-02E6-4791-AA9C-F87D1C5F5DE6} = {43801AD9-E999-41A4-B8F6-8DDC7423F8E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3056DF58-05B1-410E-8BA4-A87A25D3AC9D}
